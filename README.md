@@ -6,4 +6,4 @@ Only followed up to "Run HelloWorld using Gradle".
 
 ***
 
-This program has a JavaFX circle, and a button that increases the circle's size when pressed.
+**Function:** This program has a JavaFX circle, and a button that increases the circle's size when pressed.
